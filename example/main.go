@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/medcampus/go-fcm"
+	"github.com/medcampus/fcm"
 )
 
 func main() {

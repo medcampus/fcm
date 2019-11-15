@@ -1,3 +1,3 @@
-module github.com/medcampus/go-fcm
+module github.com/medcampus/fcm
 
 go 1.12
